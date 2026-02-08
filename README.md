@@ -6,7 +6,7 @@ Frontend Developer
 
 * 🌍  I'm based in Seattle, Washington, United States
 * ✉️  You can contact me at [aidanlmcmurray@gmail.com](mailto:aidanlmcmurray@gmail.com)
-* 🚀  I'm currently working on [https://skinstric-internship-psi.vercel.app/](http://skinstric-internship-psi.vercel.app/)
+* 🚀  I'm currently working on [https://summarist-ochre.vercel.app/](http://summarist-ochre.vercel.app/)
 * 🧠  I'm learning about Hacking and A.I.
 * 🤝  I'm open to collaborating on anything Beautiful
 
