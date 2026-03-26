@@ -16,7 +16,7 @@ Frontend Developer who cares about how things feel — clean interfaces, smooth 
 | Project | Description | Stack | Links |
 |---|---|---|---|
 | **Summarist** | Audiobook SaaS platform with authentication, Stripe subscriptions, and custom audio player | Next.js, Firebase, Stripe, Zustand | [Live](https://summarist-ochre.vercel.app/) · [GitHub](https://github.com/aidanlachlan/summarist) |
-| **Skinstric AI** | Real-time AI skin analysis platform — 98% detection accuracy, sub-2s response time | Next.js, OpenAI Vision API, Tailwind CSS, GSAP | [GitHub](https://github.com/aidanlachlan/skinstric-ai) |
+| **Skinstric AI** | Real-time AI skin analysis platform | Next.js, OpenAI Vision API, Tailwind CSS | [Live](https://skinstric-internship-psi.vercel.app/) · [GitHub](https://github.com/aidanlachlan/skinstric-ai) |
 | **NFT Ultraverse** | NFT marketplace with filtering, dynamic routing, and interactive UI | React, REST APIs, Tailwind CSS | [Live](https://nft-ultraverse.vercel.app/) · [GitHub](https://github.com/aidanlachlan/nft-ultraverse) |
 
 ---
