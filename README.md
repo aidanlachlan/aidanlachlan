@@ -9,18 +9,6 @@ Frontend Developer who cares about how things feel — clean interfaces, smooth 
 - 🤝 Open to frontend contract and permanent roles
 - 📫 Reach me at [aidanlmcmurray@gmail.com](mailto:aidanlmcmurray@gmail.com) or [aidanmcmurray.dev](https://aidanmcmurray.dev)
 
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Stack | Links |
-|---|---|---|---|
-| **Summarist** | Audiobook SaaS platform with authentication, Stripe subscriptions, and custom audio player | Next.js, Firebase, Stripe, Zustand | [Live](https://summarist-ochre.vercel.app/) · [GitHub](https://github.com/aidanlachlan/summarist) |
-| **Skinstric AI** | Real-time AI skin analysis platform | Next.js, OpenAI Vision API, Tailwind CSS | [Live](https://skinstric-internship-psi.vercel.app/) · [GitHub](https://github.com/aidanlachlan/skinstric-ai) |
-| **NFT Ultraverse** | NFT marketplace with filtering, dynamic routing, and interactive UI | React, REST APIs, Tailwind CSS | [Live](https://nft-internship.vercel.app/) · [GitHub](https://github.com/aidanlachlan/nft-internship) |
-
----
-
 ### 🛠 Skills
 
 <p align="left">
