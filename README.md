@@ -4,8 +4,8 @@
 
 Frontend Developer who cares about how things feel. Clean interfaces, smooth interactions, and code that's built to last. Based in Seattle, WA.
 
-- 🔭 Currently working on [Summarist](https://summarist-ochre.vercel.app/) — an audiobook SaaS platform
-- 🧠 Deepening my knowledge of AI-assisted development through Anthropic's Claude certification program — exploring MCP server integration
+- 🔭 Currently working on [Summarist](https://summarist-ochre.vercel.app/) - an audiobook SaaS platform
+- 🧠 Deepening my knowledge of AI-assisted development through Anthropic's Claude certification program, exploring MCP server integration
 - 🤝 Open to frontend contract and permanent roles
 - 📫 Reach me at [aidanlmcmurray@gmail.com](mailto:aidanlmcmurray@gmail.com) or [aidanmcmurray.dev](https://aidanmcmurray.dev)
 
