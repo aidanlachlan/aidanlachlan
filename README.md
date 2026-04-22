@@ -1,4 +1,4 @@
-# Hi 👋 I'm Aidan
+# Hi, 👋 I'm Aidan
 
 ### Frontend Developer — React · Next.js · TypeScript
 
