@@ -1,6 +1,6 @@
 # Hi, 👋 I'm Aidan
 
-### Frontend Developer — React · Next.js · TypeScript · Node
+### Frontend Developer — React · Next.js · TypeScript · Node.js
 
 Frontend Developer who cares about how things feel. Clean interfaces, smooth interactions, and code that's built to last. Based in Seattle, WA.
 
