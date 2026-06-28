@@ -1,8 +1,8 @@
 # Hi, 👋 I'm Aidan
 
-### Frontend Developer   —   React · Next.js · TypeScript · Node.js
+### Frontend Engineer   —   React · Next.js · TypeScript · Node.js
 
-Frontend Developer who cares about how things feel. Clean interfaces, smooth interactions, and code that's built to last. Based in Seattle, WA.
+Frontend Engineer who cares about how things feel. Clean interfaces, smooth interactions, and code that's built to last. Based in Seattle, WA.
 
 - 🔭 Currently working on [Summarist](https://summarist-ochre.vercel.app/) - an audiobook SaaS platform
 - 🧠 Deepening my knowledge of AI-assisted development through Anthropic's Claude certification program, exploring MCP server integration
