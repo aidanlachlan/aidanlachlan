@@ -5,7 +5,7 @@
 Frontend Engineer who cares about how things feel. Clean interfaces, smooth interactions, and code that's built to last. Based in Seattle, WA.
 
 - 🔭 Currently working on a financial planning app 
-- 🧠 Deepening my knowledge of AI-assisted development through Anthropic's Claude certification program, exploring MCP server integration
+- 🧠 Deepening my knowledge of AI-assisted development through Anthropic's Claude certification program and building fresh ideas!
 - 🤝 Open to frontend roles
 - 📫 Reach me at [aidanlmcmurray@gmail.com](mailto:aidanlmcmurray@gmail.com) or [aidanmcmurray.dev](https://aidanmcmurray.dev)
 
